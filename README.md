@@ -7,6 +7,6 @@ Navigtion Lab 6 nav and find pole
 
 ## 启动
 ```
-rosrun lab6 all_task.py
+rosrun lab6 all_tasks.py
 ``` 
 即可
